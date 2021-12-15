@@ -1,0 +1,11 @@
+ul li a{
+    color: black;
+}
+.img-fluid {
+   width: 100%; 
+}
+
+.redes-1{
+    display: inline;
+    width: 20%;
+}
