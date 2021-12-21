@@ -9,3 +9,22 @@ ul li a{
     display: inline;
     width: 20%;
 }
+
+/* animacion */
+h1{
+
+    animation-duration: 2s;
+    animation-name: aparecer;
+    animation-iteration-count: infinite;
+    }
+    
+    @keyframes aparecer {
+        0% {
+          opacity: 0;
+        }
+        100% {
+          opacity: 1;
+        }
+     }
+     
+     /* fin animacion */
